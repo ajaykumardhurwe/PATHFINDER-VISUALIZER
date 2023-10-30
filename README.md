@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 Checkout here 
 https://pathfinder-visualizer1.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
